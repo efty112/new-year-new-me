@@ -44,3 +44,40 @@ body {
 }
 
 /* Header Styles Ends */
+
+/* Section-1 Starts */
+.section-1 {
+    display: flex;
+}
+
+.person-pic {
+    margin: 140px 0px 0px 277px;
+}
+
+.section-1-div {
+    /* margin: 370px 0px 0px 134px; */
+}
+
+.section-1-title {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    margin: 370px 450px 0px 134px;
+}
+
+.section-1-description {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 24px 322px 0px 134px;
+}
+
+.section-1-list li {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+}
+.section-1-list{
+    margin-top: 16px;
+    padding-left: 134px;
+}
