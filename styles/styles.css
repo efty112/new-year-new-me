@@ -6,39 +6,41 @@ body {
     font-family: 'Work Sans', sans-serif;
 }
 
-/* Header Styles */
+/* Header Styles Starts*/
+
 .header {
     background-image: url('../images/banner/banner1.png');
     background-size: 100% 100%;
     background-repeat: no-repeat;
+    text-align: right;
+    height: 808px;
 }
 
 .header-title {
     color: #151414;
-    text-align: right;
     font-size: 65px;
     font-weight: 700;
-    padding: 216px 230px 24px 845px;
-    width: 525px;
+    /* width: 525px; */
+    padding: 216px 230px 0px 845px;
 }
-
 
 .header-description {
     color: var(--dark-02, #444343);
-    text-align: right;
     font-size: 16px;
     font-weight: 400;
-    padding: 0px 230px 32px 876px;
-    width: 494px;
+    /* width: 494px; */
+    padding: 24px 230px 0px 876px;
 }
 
 .btn-1 {
     color: #FFF;
-    text-align: right;
     font-size: 20px;
     font-weight: 600;
     border-radius: 5px;
     background: #F15B22;
     padding: 20px;
-    margin: 0px 230px 166px 1210px;
+    margin: 32px 230px 0px 1210px;
+    /* width: 160px; */
 }
+
+/* Header Styles Ends */
